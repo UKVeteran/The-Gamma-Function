@@ -175,12 +175,4 @@ console.log(gamma(1.5)); // Output: 0.886226925452758 (Square root of PI / 2)
 
   <hr />
 
-  <!-- LICENSE SECTION -->
-  <section id="license">
-    <h2>## 📄 License</h2>
-    <p>
-      This educational reference codebase and documentation repository is cleanly structured and distributed under the <strong>MIT License</strong>. You are fully free to branch, adapt, modify, and utilize this material commercially or privately.
-    </p>
-  </section>
 
-</main>
