@@ -66,7 +66,7 @@ When plotted along the real axis, the function behaves as follows:
 <br />
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gamma_plot.svg" alt="Gamma Function Plot along the Real Axis" width="550px" />
+  <img src="./assets/Gamma_Func.png" alt="Gamma Function Plot" width="550px" />
   <p><em>Figure 1: Behavior of Γ(x) along the real number line showing characteristic poles at non-positive integers.</em></p>
 </div>
 
